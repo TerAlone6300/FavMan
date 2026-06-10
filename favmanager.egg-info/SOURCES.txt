@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+favmanager/main.py
+favmanager/storage.py
+favmanager.egg-info/PKG-INFO
+favmanager.egg-info/SOURCES.txt
+favmanager.egg-info/dependency_links.txt
+favmanager.egg-info/entry_points.txt
+favmanager.egg-info/top_level.txt

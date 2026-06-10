@@ -1,0 +1,8 @@
+[console_scripts]
+addfav = favmanager.main:addfav
+addfavf = favmanager.main:addfavf
+execute = favmanager.main:execute
+goto = favmanager.main:goto
+listfav = favmanager.main:listfav
+rmfav = favmanager.main:rmfav
+rmfavf = favmanager.main:rmfavf
