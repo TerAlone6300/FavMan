@@ -1,8 +1,14 @@
-# FavManager
+# FavMan
 
 A simple CLI tool to manage your favorite directories and files.
 
 ## Installation
+
+```bash
+pip install favman
+```
+
+Or from source:
 
 ```bash
 pip install -e .

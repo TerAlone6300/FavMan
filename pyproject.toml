@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "favmanager"
-version = "0.1.0"
+name = "favman"
+version = "0.1.1"
 description = "A CLI tool to manage favorite directories and files"
 readme = "README.md"
 requires-python = ">=3.7"
@@ -14,10 +14,10 @@ classifiers = [
 ]
 
 [project.scripts]
-addfav = "favmanager.main:addfav"
-rmfav = "favmanager.main:rmfav"
-goto = "favmanager.main:goto"
-addfavf = "favmanager.main:addfavf"
-rmfavf = "favmanager.main:rmfavf"
-execute = "favmanager.main:execute"
-listfav = "favmanager.main:listfav"
+addfav = "favman.main:addfav"
+rmfav = "favman.main:rmfav"
+goto = "favman.main:goto"
+addfavf = "favman.main:addfavf"
+rmfavf = "favman.main:rmfavf"
+execute = "favman.main:execute"
+listfav = "favman.main:listfav"
