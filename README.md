@@ -11,6 +11,7 @@ pip install favman
 Or from source:
 
 ```bash
+git clone https://github.com/TerAlone6300/FavMan.git
 pip install -e .
 ```
 
